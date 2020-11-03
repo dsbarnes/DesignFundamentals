@@ -1,0 +1,39 @@
+# Typography Cheat Sheet
+- When in doubt, justify left
+- Use one font
+- - if you must, avoid using of the same classification
+- skip a weight
+- - not just light and bold, lighter and bloder
+- Double the pt size (or more)
+- Align to one axis
+- Group by using rules (rulers / lines / boxes)
+- Avoid the corners
+- Mind the gap (Don't force justify or leave widows)
+- - Typography is ultimately about spacing
+- Pick any font so long as it is one of these:
+- - Akzidenz Grotesque
+- - Avenir,
+- - Avant Garde,
+- - Bell Gothic,
+- - Bodoni,
+- - Bembo,
+- - Caslon,
+- - Clarendon,
+- - Courier,
+- - Din Mittelschrift,
+- - Franklin Gothic,
+- - Frutiger,
+- - Futura,
+- - Garamond,
+- - Gill Sans,
+- - Gotham,
+- - Helvetica,
+- - Letter Gothic,
+- - Memphis,
+- - Meta,
+- - OCRB,
+- - Rockwell,
+- - Sabon,
+- - Trade Gothic,
+- - Trajan,
+- - Univers.

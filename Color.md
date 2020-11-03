@@ -1,6 +1,4 @@
-# This is what I think about color
-here is something
+# Color cheat sheet
 
-- list
-- of
-- shit
+
+# Other ways of making a color pallet

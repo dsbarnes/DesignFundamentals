@@ -26,6 +26,41 @@
 - Use dimension
 - let it breath
 
+# Timeline
+DAY ONE:
+- project overview, page structure
+DAY TWO:
+- mockups
+DAY THREE:
+- 
+
+# Writing a proposal
+Have a template!<br>
+- Cover / Title page (use their logo)
+- ToC
+- Overview (interview the client to get them to tell you their need)
+- - Includes a design guide (like we have at VB)
+- Design Process (yes, that's a section! - it's design thinking)
+- - Discovery
+- - Architect
+- - Design mocks
+- - Build
+- - Deliver
+- Timeline (How long you think + about 50%) and deliverables
+- - How long will it take me to work (RANGE!!)
+- - Mood boards, wireframes, everything you plan to do
+- - If we get to 30% and I'm not at 30% CLIENT MUST KNOW
+- - If we get to 50% and I'm not at 50% CLIENT MUST KNOW
+- - If we get to 80% and I'm not at 80% CLIENT MUST KNOW
+- Acceptance of quote
+
+<br>
+
+
+Side note: TAKE 50% upfront!<br>
+Be sure to send an actual invoice!<br>
+Scope of work is impreative!<br>
+
 
 # (potential) Template
 Criteria:

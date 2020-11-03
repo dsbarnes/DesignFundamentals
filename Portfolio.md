@@ -1,12 +1,14 @@
 # Notes on portfolio reviews
 - Infographic on how you solved a problem.
 - The star method applies (CONTEXT)
+- It's the process!!!
 - Write somewhat like a phil paper (CONTEXT)
 - Best work in the top left (DESIGN)
 - Show off thought process (CONTEXT)
 -  - Mood board
 -  - though map / brainstorm / keywords
 -  - sketches / files
+-  - wireframes
 - Ideally the things you show off will be interacting with humans (DESIGN)
 - Survey Q & A
 - Be able to explain your work
@@ -16,6 +18,15 @@
 -  - I want, as HR, to put a square peg, in a square hole
 - Marks and Logos
 
+
+# The 5 commandments of design
+- Design Thinking
+- Leading (way / pathfinding) - Tell a story
+- Show the process
+- Use dimension
+- let it breath
+
+
 # (potential) Template
 Criteria:
 1. First Impression
@@ -23,18 +34,28 @@ Criteria:
 3. Clarity and Context
 
 <br>
-Learn how to present things<br>
+
+Learn how to<br>
+present things<br>
 beyond the imagery.<br>
 <br>
 <br>
+
 My overall goal<br>
 <br>
+
 Brand / Project Name<br>
 Problem<br>
 Noun (wants)/(needs) noun to verb.<br>
 <br>
 <br>
 
+As part of their desire we needed to (STAR METHOD) <br>
+<br>
+Situation (is above)<br>
+Task (That needed completed)<br>
+Actions (that I took to complete the task)<br>
+Result (of my doing)<br>
 
 
 
